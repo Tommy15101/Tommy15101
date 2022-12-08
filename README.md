@@ -4,5 +4,6 @@
 - 🌱 Completed DAPP University and Eat The Blocks Blockchain Bootcamps
 - 🌱 Learning Smart Contract Security with secureum bootcamp. 
 - 🌱 Completed Fintech / De-Fi with Moralis Academy.
+- 🌱 Smart Contract Programmer / Mark Muskardin are 2 influences who I have learned a lot from.
 - 👯 I’m looking to align with a team / employment.
 - ⚡ Fun fact: I have played guitar for 15 years. I am a very amatuer singer.
